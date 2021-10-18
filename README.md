@@ -2,7 +2,8 @@
 
 A simple counter strike global offensive wallhack that display the distance of the enemy from you.
 
-// TODO: Add images from repo
+<img src="images/sample-1.png" width=700 />
+<img src="images/sample-2.png" width=700 />
 
 This is an external hack that does **not** inject and/or modify any game file or game memory.
 
@@ -14,6 +15,12 @@ This is an external hack that does **not** inject and/or modify any game file or
 - Click in button to Enable the hack.
 
 By default the distance label is positioned in the enemy feet, you can also change its position in the main hack interface.
+
+**Distance colors are based in the enemy distance**
+- Red: close range.
+- Green: medium range.
+- Beige: far away range.
+- Purple: Inactive last enemy position in the memory.
 
 ## Build
 
