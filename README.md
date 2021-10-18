@@ -11,7 +11,7 @@ This is an external hack that does **not** inject and/or modify any game file or
 
 - Open CS:GO.
 - Connect to a server or create a game.
-- Run the project from CGRedSoft folder.
+- Run the project from CSGOSimpleWallhack folder.
 - Click in button to Enable the hack.
 
 By default the distance label is positioned in the enemy feet, you can also change its position in the main hack interface.
