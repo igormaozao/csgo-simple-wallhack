@@ -11,7 +11,7 @@ namespace CSGOMemoryDumper {
     class Program {
 
         const string CSGO_PROCESS_NAME = "csgo";
-        const string PATTERN_CONFIG_FILE = "../../../../patternConfig.json";
+        const string PATTERN_CONFIG_FILE = "patternConfig.json";
         const int BYTE_VALUE_TO_SKIP = 0x100;
 
         static JsonSerializerOptions jsonOptions = new JsonSerializerOptions() {
