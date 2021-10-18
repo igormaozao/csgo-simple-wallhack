@@ -1,0 +1,20 @@
+[
+  {
+    "name": "EntityList",
+    "extraBytes": 0,
+    "patternOffset": 1,
+    "pattern": "BB, ?, ?, ?, ?, 83, FF, 01, 0F, 8C, ?, ?, ?, ?, 3B, F8"
+  },
+  {
+    "name": "ViewMatrix",
+    "extraBytes": 176,
+    "patternOffset": 3,
+    "pattern": "0F, 10, 05, ?, ?, ?, ?, 8D, 85, ?, ?, ?, ?, B9"
+  },
+  {
+    "name": "LocalPlayer",
+    "extraBytes": 4,
+    "patternOffset": 3,
+    "pattern": "8D, 34, 85, ?, ?, ?, ?, 89, 15, ?, ?, ?, ?, 8B, 41, 08, 8B, 48, 04, 83, F9, FF"
+  }
+]
